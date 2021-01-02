@@ -1,2 +1,2 @@
 # Search-Engine
-![](Technical Analysis/Presentation.pdf)
+![](images/screenshot1.jpg)
