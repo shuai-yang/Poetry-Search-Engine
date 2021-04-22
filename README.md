@@ -47,7 +47,7 @@ The system’s data structures must contain Hash Table, BST, ArrayList, of BSTs.
 #### Search Engine Requirements:
 The heart of this project is to create a search engine. The purpose of your search engine is to allow users to search via keyword for entries in your system. For example, if the user types in the word "love" to the search engine, the title of each record where the word "love" appears in the text should be alphabetically sorted and displayed ato the user. The user should then be able to select the entry of his or her choice to view additional information.<br />
 <br />
-<b>The search engine will build what is known as an inverted index - a well-known technique from a subfield of computer science known as information retrieval </b>
+<b>The search engine will build what is known as an inverted index - a well-known technique from information retrieval </b>
 
 ## Snip of my output :arrow_down: <br /><br /> 
 ![](images/screenshot1.JPG)\
