@@ -1,6 +1,13 @@
 # Search Engine
 ![](images/logos.png)
-## Course: Data Abstract & Structure
+## Problem Description and Requirements
+#### Search Engine Requirements:
+The heart of this project is to create a search engine. The purpose of your search engine is to allow users to search via keyword for entries in your system. For example, if the user types in the word "love" to the search engine, the title of each record where the word "love" appears in the text should be alphabetically sorted and displayed ato the user. The user should then be able to select the entry of his or her choice to view additional information.<br />
+<br />
+<b>The search engine will build what is known as an inverted index - a well-known technique from information retrieval </b>
+#### Required Data Structures:
+The system’s data structures must contain Hash Table, BST, ArrayList, of BSTs.
+
 #### Data and Topic Requirements :
 You must select one of the below four topics as the focus of your project. 
 <p>
@@ -42,12 +49,7 @@ You must create an interactive data processing system, with a menu of options pr
 </p>
 
 At the end of the program, the data is to be automatically written to a text file whose name is typed in by the user.
-#### Required Data Structures:
-The system’s data structures must contain Hash Table, BST, ArrayList, of BSTs.
-#### Search Engine Requirements:
-The heart of this project is to create a search engine. The purpose of your search engine is to allow users to search via keyword for entries in your system. For example, if the user types in the word "love" to the search engine, the title of each record where the word "love" appears in the text should be alphabetically sorted and displayed ato the user. The user should then be able to select the entry of his or her choice to view additional information.<br />
-<br />
-<b>The search engine will build what is known as an inverted index - a well-known technique from information retrieval </b>
+
 
 ## Snip of my output :arrow_down: <br /><br /> 
 ![](images/screenshot1.JPG)\
